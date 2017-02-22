@@ -22,3 +22,26 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+#Devamp Portfolio Application
+
+> This is a Ruby on Rrails 5 application that allows users to create their own portolios.
+
+### Features
+
+- Real time chat engine for comments
+- Blog
+- Portfolio
+- Drag and drop interface
+
+### Code Example
+
+```ruby
+def my_great_method
+	puts "here it is"
+	end
+	```
+
+	```javascript
+	alert('Hi there');
+	```
