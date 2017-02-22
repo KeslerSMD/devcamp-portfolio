@@ -25,7 +25,7 @@ Things you may want to cover:
 
 #Devamp Portfolio Application
 
-> This is a Ruby on Rrails 5 application that allows users to create their own portolios.
+> This is a Ruby on Rails 5 application that allows users to create their own portolios.
 
 ### Features
 
@@ -40,8 +40,8 @@ Things you may want to cover:
 def my_great_method
 	puts "here it is"
 	end
-	```
+```
 
-	```javascript
+```javascript
 	alert('Hi there');
-	```
+```
