@@ -4,10 +4,8 @@ class ApplicationController < ActionController::Base
   include DeviseWhitelist
   include SetSource
 
-  before_action :set_source
-
-  def set_source
-    session[:source] = params[:q] if params[:q]
+  def current_user
+    super || OpenStruct.new(name: "Guest User",  first_name: "Guest", last_name: "User", email: "guest@email.com")
   end
 
 end
