@@ -1,9 +1,7 @@
 class PortfoliosController < ApplicationController
-	def index
+  before_action :set_portfolio, only: [:edit, :update, :destroy, :show]
 
-    before_action :set_portfolio_item, only: [:edit, :update, :destroy, :show]
-    layout 'portfolio'
-
+  def index
 		@portfolio_items = Portfolio.all
 	end
 
@@ -16,7 +14,7 @@ class PortfoliosController < ApplicationController
 	end
 
 	def create
-    @portfolio_item = Portfolio.new(params.require(:portfolio).permit(:title, :subtitle, :body))
+    @portfolio_item = Portfolio.new(portfolio_params)
 
     respond_to do |format|
       if @portfolio_item.save
@@ -33,7 +31,7 @@ class PortfoliosController < ApplicationController
 	def update
 
     respond_to do |format|
-      if @portfolio_item.update(params.require(:portfolio).permit(:title, :subtitle, :body))
+      if @portfolio_item.update(portfolio_params)
         format.html { redirect_to portfolios_path, notice: 'Portfolio was successfully updated.' }
       else
         format.html { render :edit }
@@ -53,13 +51,18 @@ class PortfoliosController < ApplicationController
   	# Redirect
     respond_to do |format|
       format.html { redirect_to portfolios_url, notice: 'Blog was successfully destroyed.' }
-  end
-  	
+    end
   end
 
-  def set_portfolio_item
+private
+
+  def set_portfolio
     @portfolio_item = Portfolio.find(params[:id])
+  end
 
+  def portfolio_params
+    params.require(:portfolio).permit(:title, :body, :sub_title, :technologies_attributes[:names])
+  end
 end
 
 
