@@ -1,24 +1,22 @@
 class PortfoliosController < ApplicationController
-  before_action :set_portfolio, only: [:edit, :update, :destroy, :show]
+  before_action :set_portfolio, only: [:show, :destroy, :edit, :update]
+  layout "portfolio"
 
   def index
-		@portfolio_items = Portfolio.all
-	end
-
-  def angular
-    @angular_portfolio_items = Portfolio.angular
+    @portfolio_items = Portfolio.all
   end
 
-	def new
-		@portfolio_item = Portfolio.new
-	end
+  def new
+    @portfolio_item = Portfolio.new
+    3.times { @portfolio_item.technologies.build }
+  end
 
-	def create
+  def create
     @portfolio_item = Portfolio.new(portfolio_params)
 
     respond_to do |format|
       if @portfolio_item.save
-        format.html { redirect_to portfolios_path, notice: 'portfolio was successfully created.' }
+        format.html { redirect_to portfolios_path, notice: 'Your portfolio item is now online.' }
       else
         format.html { render :new }
       end
@@ -26,13 +24,13 @@ class PortfoliosController < ApplicationController
   end
 
   def edit
-	end
 
-	def update
+  end
 
+  def update
     respond_to do |format|
       if @portfolio_item.update(portfolio_params)
-        format.html { redirect_to portfolios_path, notice: 'Portfolio was successfully updated.' }
+        format.html { redirect_to portfolios_path, notice: 'The record successfully updated.' }
       else
         format.html { render :edit }
       end
@@ -42,27 +40,27 @@ class PortfoliosController < ApplicationController
   def show
   end
 
+
   def destroy
-  	#Perform the lookup
+    @portfolio_item.destroy
 
-		#Destroy/delete the record
-  	@portfolio_item.destroy
-
-  	# Redirect
     respond_to do |format|
-      format.html { redirect_to portfolios_url, notice: 'Blog was successfully destroyed.' }
+      format.html { redirect_to portfolios_url, notice: 'Record was removed.' }
     end
   end
 
-private
+  private
 
   def set_portfolio
     @portfolio_item = Portfolio.find(params[:id])
   end
 
   def portfolio_params
-    params.require(:portfolio).permit(:title, :body, :sub_title, :technologies_attributes[:names])
+    params.require(:portfolio).permit(:title,
+                                      :subtitle,
+                                      :body,
+                                      technologies_attributes: [:name]
+    )
   end
+
 end
-
-

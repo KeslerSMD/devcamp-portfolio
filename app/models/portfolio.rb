@@ -1,6 +1,6 @@
 class Portfolio < ApplicationRecord
 
-		has_many :technologies
+		has_many :technologies, dependent: :destroy
 
 		includes Placeholder
 
