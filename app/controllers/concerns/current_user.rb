@@ -6,10 +6,10 @@ module CurrentUser
   end
 
   def guest_user
-  guest = GuestUser.new
+    guest = GuestUser.new
     guest.name = "Guest User"
     guest.first_name = "Guest"
-    guest.Last_name = "User"
+    guest.last_name = "User"
     guest.email = "guest@example.com"
     guest
   end
