@@ -24,23 +24,23 @@ module ApplicationHelper
   def nav_items
     [
         {
-            url:root_path,
+            url: root_path,
             title: 'Home'
         },
         {
-            url:about_me_path,
+            url: about_me_path,
             title: 'About Me'
         },
         {
-            url:contact_path,
+            url: contact_path,
             title: 'Contact'
         },
         {
-            url:blogs_path,
+            url: blogs_path,
             title: 'Blog'
         },
         {
-            url:portfolios_path,
+            url: portfolios_path,
             title: 'Portfolio'
         },
     ]
@@ -50,8 +50,7 @@ module ApplicationHelper
     nav_links = ''
 
     nav_items.each do |item|
-      nav_links << "<#{tag_type}><a href='#{item[:url]}' class='#{style} #{active?
-      item[:url]}'> #{item[:title]}</a></#{tag_type}>"
+      nav_links << "<#{tag_type}><a href='#{item[:url]}' class='#{style} #{active? item[:url]}'>#{item[:title]}</a></#{tag_type}>"
     end
 
     nav_links.html_safe
@@ -59,5 +58,6 @@ module ApplicationHelper
 
   def active? path
     "active" if current_page? path
-    end
   end
+
+end
