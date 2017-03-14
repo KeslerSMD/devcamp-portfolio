@@ -3,39 +3,22 @@
 <head>
   <title><%= @page_title %></title>
   <%= csrf_meta_tags %>
-
   <meta name="keywords" content="<%= @seo_keywords %>" />
-
   <%= stylesheet_link_tag    'blogs', media: 'all', 'data-turbolinks-track': 'reload' %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
 </head>
 
 <body>
-
-
-  <!-- Start of nav -->
   <%= render 'shared/blog_nav' %>
-  <!-- End of nav -->
-
   <%= render 'shared/blog_masthead' %>
-
-
-  <!--start of container and row elements-->
   <div class="container">
-
     <div class="row">
-  <!--end of container and row elements-->
 
   <%= yield %>
 
   <%= render 'shared/blog_sidebar' %>
-
     </div>
-
     <%= render 'shared/blog_footer' %>
-
-    <%= render "shared/nav", location: "bottom" %>
-
     <%= source_helper("blog") %>
   </div>
 </body>
