@@ -1,27 +1,25 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title><%= @page_title %></title>
-    <%= csrf_meta_tags %>
+<head>
+  <title><%= @page_title %></title>
+  <%= csrf_meta_tags %>
+  <meta name="keywords" content="<%= @seo_keywords %>" />
+  <%= stylesheet_link_tag    'blogs', media: 'all', 'data-turbolinks-track': 'reload' %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+</head>
 
-    <meta name="keywords" content="<%= @seo_keywords %>" />
+<body>
+  <%= render 'shared/blog_nav' %>
+  <%= render 'shared/blog_masthead' %>
+  <div class="container">
+    <div class="row">
 
-    <%= stylesheet_link_tag    'blogs', media: 'all', 'data-turbolinks-track': 'reload' %>
-    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
-  </head>
+  <%= yield %>
 
-  <body>
-    <%= render 'shared/blog_nav' %>
-    <%= render 'shared/blog_masthead' %>
-
-    <div class="container">
-      <div class="row">
-        <%= yield %>
-        <%= render 'shared/blog_sidebar' %>
-      </div>
-
-      <%= render 'shared/blog_footer' %>
-      <%= source_helper("blog") %>
+  <%= render 'shared/blog_sidebar' %>
     </div>
-  </body>
+    <%= render 'shared/blog_footer' %>
+    <%= source_helper("blog") %>
+  </div>
+</body>
 </html>
