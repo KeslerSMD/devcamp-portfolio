@@ -57,7 +57,7 @@ gem 'devise', '~> 4.2'
 
 gem 'bootstrap', '~> 4.0.0.alpha6'
 
-gem 'devcamp_view_tool', '~> 0.1.0'
+gem 'walker_view_tool', '~> 0.1.0'
 gem 'petergate', '~> 1.7'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.1'
 gem 'kaminari', '~> 1.0', '>= 1.0.1'
@@ -68,3 +68,4 @@ gem 'carrierwave-aws', '~> 1.0', '>= 1.0.2'
 gem 'dotenv-rails', '~> 2.1', '>= 2.1.2'
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
 gem 'tether-rails'
+gem 'gritter', '~> 1.2'
