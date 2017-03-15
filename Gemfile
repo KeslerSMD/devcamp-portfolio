@@ -27,7 +27,6 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
-gem 'devise'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
@@ -39,6 +38,7 @@ gem 'devise'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
+  gem 'pry-byebug'
 end
 
 group :development do
@@ -52,13 +52,19 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-gem "friendly_id", "~> 5.1.0"
+gem 'friendly_id', '~> 5.1.0'
+gem 'devise', '~> 4.2'
+
 gem 'bootstrap', '~> 4.0.0.alpha6'
-gem 'walker_view_tool', '~> 0.1.0'
+
+gem 'devcamp_view_tool', '~> 0.1.0'
 gem 'petergate', '~> 1.7'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.1'
 gem 'kaminari', '~> 1.0', '>= 1.0.1'
+gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
 gem 'carrierwave', '~> 1.0'
-gem 'mini_magick', '~> 4.6', '>= 4.6.1'
-gem 'carrierwave-aws', '~> 1.1'
-gem 'dotenv-rails', '~> 2.2'
+gem 'mini_magick', '~> 4.6'
+gem 'carrierwave-aws', '~> 1.0', '>= 1.0.2'
+gem 'dotenv-rails', '~> 2.1', '>= 2.1.2'
+gem 'cocoon', '~> 1.2', '>= 1.2.9'
+gem 'tether-rails'
