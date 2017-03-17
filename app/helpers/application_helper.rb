@@ -28,7 +28,7 @@ module ApplicationHelper
       },
       {
         url: about_me_path,
-        title: 'About Me'
+        title: 'About'
       },
       {
         url: contact_path,
@@ -44,7 +44,7 @@ module ApplicationHelper
       },
       {
           url: tech_news_path,
-          title: 'Tech News'
+          title: 'News'
       },
     ]
   end
@@ -65,8 +65,9 @@ module ApplicationHelper
 
   def alerts
     alert = (flash[:alert] || flash[:error] || flash[:notice])
+
     if alert
-      alert_generator
+      alert_generator alert
     end
   end
 

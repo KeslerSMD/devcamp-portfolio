@@ -87,6 +87,11 @@ body {
 
 .nav-masthead .nav-link + .nav-link {
   margin-left: 1rem;
+
+}
+.nav-link {
+  margin-left: 6px;
+  margin-right: 6px;
 }
 
 .nav-masthead .active {
@@ -184,8 +189,8 @@ body {
 }
 
 .app-nav span {
-  margin-left: 10px;
-  margin-right: 10px;
+  //margin-left: 6px;
+  //margin-right: 6px;
 }
 
 #background {
@@ -225,7 +230,13 @@ body {
 
 .tech-news > .card {
   padding: 13px;
+
 }
 
+.mastfoot {
+  margin: -30px;
+}
 
-
+.masthead {
+  margin: -15px;
+}
