@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0427233-dd45-4010-840d-40cc98653085" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20170313170024_add_position_to_portfolios.rb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/blogs_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/blogs_helper.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -82,11 +82,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20170121200049_add_position_to_portfolios.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="20170121200049_add_position_to_portfolios.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20170121200049_add_position_to_portfolios.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blogs_helper.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/helpers/blogs_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="3" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -151,7 +161,6 @@
         <option value="$PROJECT_DIR$/app/views/blogs/show.html.erb" />
         <option value="$PROJECT_DIR$/app/views/blogs/_blog.html.erb" />
         <option value="$PROJECT_DIR$/app/views/blogs/_admin_actions.html.erb" />
-        <option value="$PROJECT_DIR$/app/helpers/blogs_helper.rb" />
         <option value="$PROJECT_DIR$/app/views/shared/_blog_nav.html.erb" />
         <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
         <option value="$PROJECT_DIR$/app/views/shared/_blog_sidebar.html.erb" />
@@ -179,6 +188,7 @@
         <option value="$PROJECT_DIR$/config/initializers/devise.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/application.rb" />
+        <option value="$PROJECT_DIR$/app/helpers/blogs_helper.rb" />
       </list>
     </option>
   </component>
@@ -748,12 +758,12 @@
       <updated>1489596173281</updated>
       <workItem from="1489596174746" duration="3290000" />
       <workItem from="1489599555367" duration="5504000" />
-      <workItem from="1489676661347" duration="47011000" />
+      <workItem from="1489676661347" duration="47075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55805000" />
+    <option name="totallyTimeSpent" value="55869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1280" y="116" width="1248" height="670" extended-state="0" />
@@ -790,14 +800,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/schema.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="52" lean-forward="false" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/portfolios.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1200,6 +1202,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/blogs_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="3" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
           <folding />
         </state>
       </provider>
