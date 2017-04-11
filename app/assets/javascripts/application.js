@@ -14,6 +14,7 @@
 //= require jquery_ujs
 //= require jquery-ui
 //= require html.sortable
+//= require contact
 //= require cocoon
 //= require gritter
 //= require cable
