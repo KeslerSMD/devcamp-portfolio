@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title><%= @page_title %></title>
     <%= csrf_meta_tags %>
@@ -11,8 +11,10 @@
 
     <%= favicon_link_tag 'favicons/favicon.ico' %>
 
+    <%= stylesheet_link_tag 'main', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= stylesheet_link_tag 'flaticon', media: 'all', 'data-turbolinks-track': 'reload' %>
-    <%= stylesheet_link_tag    'contacts', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_link_tag 'contacts', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_link_tag 'name', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
 
   </head>
@@ -21,11 +23,7 @@
 
     <%= render 'shared/contact_nav' %>
 
-    <div class="container">
-
         <%= yield %>
-
-    </div>
 
     <%= render 'shared/contact_footer' %>
 

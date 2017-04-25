@@ -13,6 +13,13 @@
 //= require jquery
 //= require jquery_ujs
 //= require jquery-ui
+//= require jquery.min
+//= require jquery.dropotron.min
+//= require jquery.scrolly.min
+//= require jquery.scrollgress.min
+//= require skel.min
+//= require util
+//= require main
 //= require html.sortable
 //= require contact
 //= require cocoon

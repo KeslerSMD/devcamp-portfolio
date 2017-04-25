@@ -1,17 +1,32 @@
-<nav class="navbar navbar-toggleable-md navbar-light bg-faded blog-nav">
-  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContenet" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-
-  <div class="container">
-    <%= link_to "Devan Walker", root_path, class: 'navbar-brand' %>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
-        <%= nav_helper 'nav-link', 'li' %>
-        <%= login_helper 'nav-link' %>
-      </ul>
+<header id="header">
+  <div class="row">
+    <%= render 'shared/contact_click' %>
+    <div class="panel">
+      <h1 class="jj">
+        <span>Devan Walker</span>
+      </h1>
+      <h1 class="jj">
+        <span>Devan Walker</span>
+      </h1>
     </div>
+  <!--<h1 id="logo"><%= link_to "Devan Walker", root_path %></h1>-->
   </div>
+  <nav id="nav">
+    <ul>
+      <li><%= link_to "Home", root_path, class: 'submenu' %></li>
+      <li><%= link_to "About Me", about_me_path, class: 'submenu' %></li>
+      <li><%= link_to "Contact", contact_path, class: 'submenu' %></li>
+      <li><%= link_to "Blog", blogs_path, class: 'submenu' %></li>
+      <li class="submenu">
+        <%= link_to "Portfolio", portfolios_path %>
+        <ul>
+          <li><%= link_to "Work", portfolios_path %></li>
+          <li><%= link_to "In", portfolios_path %></li>
+          <li><%= link_to "Progess", portfolios_path %></li>
+        </ul>
+      </li>
+      <li><%= login_helper 'button special' %></li>
 
-</nav>
-
+    </ul>
+  </nav>
+</header>
