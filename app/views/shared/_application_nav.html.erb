@@ -1,9 +1,32 @@
-<div class="masthead clearfix">
-  <div class="inner">
-    <h3 class="masthead-brand">Devan Walker</h3>
-    <nav class="nav nav-masthead app-nav">
-      <%= nav_helper 'nav-link', 'span' %>
-      <%= login_helper 'nav-link' %>
-    </nav>
+<header id="header">
+  <div class="row">
+    <%= render 'shared/contact_click_app' %>
+    <div class="panel">
+      <h1 class="jj">
+        <span>Devan Walker</span>
+      </h1>
+      <h1 class="jj">
+        <span>Devan Walker</span>
+      </h1>
+    </div>
+  <!--<h1 id="logo"><%= link_to "Devan Walker", root_path %></h1>-->
   </div>
-</div>
+  <nav id="nav">
+    <ul>
+      <li><%= link_to "Home", root_path, class: 'submenu' %></li>
+      <li><%= link_to "About Me", about_me_path, class: 'submenu' %></li>
+      <li><%= link_to "Contact", contact_path, class: 'submenu' %></li>
+      <li><%= link_to "Blog", blogs_path, class: 'submenu' %></li>
+      <li class="submenu">
+        <%= link_to "Portfolio", portfolios_path %>
+        <ul>
+          <li class="sub-link"><%= link_to "Work", portfolios_path %></li>
+          <li class="sub-link"><%= link_to "In", portfolios_path %></li>
+          <li class="sub-link"><%= link_to "Progess", portfolios_path %></li>
+        </ul>
+      </li>
+      <li><%= login_helper 'button special' %></li>
+
+    </ul>
+  </nav>
+</header>

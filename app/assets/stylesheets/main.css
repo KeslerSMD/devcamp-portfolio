@@ -10,7 +10,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
-	}
+		}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
@@ -1542,7 +1542,6 @@
 	body {
 		/*background: #f3f6fa;*/
         background: url("airplane.jpg");
-
     }
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -3192,4 +3191,8 @@
 
 #header {
     height: 80px;
+}
+
+#background {
+	background-size: 100% auto;
 }

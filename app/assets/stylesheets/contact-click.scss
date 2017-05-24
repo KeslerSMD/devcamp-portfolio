@@ -4,7 +4,7 @@ $color2: #1F3944;
 $color3: white;
 
 .contact-click {
-  margin-left: -15px;
+  width:100px;;
 }
 
 .icon {
@@ -19,6 +19,7 @@ $color3: white;
   color: black;
   margin-left: 40px;
   margin-top: 7px;
+  z-index: -1;
 }
 
 .contact-button {
@@ -33,10 +34,11 @@ $color3: white;
   font-size: 1.2em;
   border: 2px solid black;
   border-radius: 4px;
-  padding: 7px 15px 7px 50px;
+  padding: 7px 75px 7px 50px;
   transition: 0.3s ease-in-out;
   margin-top: 10px;
   margin-left: 15px;
+  width:20px;
 
   span {
     text-transform: none;

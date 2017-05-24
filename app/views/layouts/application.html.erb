@@ -11,34 +11,31 @@
 
     <%= favicon_link_tag 'favicons/favicon.ico' %>
 
-    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_link_tag 'about', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_link_tag 'flaticon', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_link_tag 'contact-click', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_link_tag 'name-app', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
   <body>
-    <div class="site-wrapper">
-      <div class="site-wrapper-inner">
-        <div class="cover-container">
 
-          <%= video_tag(
+        <%= render "shared/application_nav" %>
+
+      <%= video_tag(
               'background.mp4',
               id: 'background',
+              class: 'stretch',
               autoplay: true,
               loop: true,
               muted: true,
               poster: 'water.jpeg'
-            )
-            %>
-
-          <%= render "shared/application_nav" %>
-
+          )
+      %>
           <%= yield %>
 
-          <%= render "shared/application_footer" %>
+          <%= render "shared/contact_footer" %>
 
           <%= alerts %>
-        </div>
-      </div>
-    </div>
   </body>
 </html>

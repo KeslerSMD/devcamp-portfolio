@@ -2,548 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0427233-dd45-4010-840d-40cc98653085" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/001-sharethis-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/003-youtube-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/004-money.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/006-music.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/github-big-logo-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/github1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/google.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/meetup1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/originalwater.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/profile_arch.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/saltlakecity.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/water.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/water2.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/water3.jpeg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/aim-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/aim-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/amazon-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/amazon-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/aol-flatty-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/aol-flatty-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/app-store.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/app-store.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/apple-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/apple-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/arto-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/arto-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/astronaut-reading.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/astronaut-reading.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/aws-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/aws-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/baidu-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/baidu-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/basecamp-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/basecamp-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/bebo-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/bebo-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/behance-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/behance-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/big-google-g-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/big-google-g-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/big-placeholder.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/big-placeholder.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/big-share-symbol.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/big-share-symbol.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/big-skype-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/big-skype-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/big-youtube-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/big-youtube-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/bing-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/bing-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/blip-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/blip-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/blogger-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/blogger-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/bnter-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/bnter-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/creative-commons-circular-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/creative-commons-circular-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/daili-booth-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/daili-booth-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/delicious-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/delicious-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/design-bump-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/design-bump-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/design-float-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/design-float-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/design-moo-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/design-moo-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/devianart-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/devianart-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/digg-logotype.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/digg-logotype.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/diigo-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/diigo-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/dribble-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/dribble-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/dropbox-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/dropbox-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/drupal-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/drupal-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/ebay-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/ebay-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/ember-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/ember-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/etsy-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/etsy-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/evernote-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/evernote-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/facebook-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/facebook-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/facebook-square-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/facebook-square-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/facto-me-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/facto-me-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/feed-burner-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/feed-burner-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/flickr-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/flickr-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/folkd-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/folkd-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/formspring-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/formspring-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/forrst-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/forrst-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/foursquare-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/foursquare-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/friend-feed-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/friend-feed-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/gdgt-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/gdgt-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/github-big-logo-1.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/github-big-logo-1.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/github-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/github-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/google-buzz-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/google-buzz-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/google-talk.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/google-talk.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/gowalla-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/gowalla-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/graphic-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/graphic-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/hacker-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/hacker-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/hi5-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/hi5-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/hyves-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/hyves-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/icloud-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/icloud-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/inclinated-pinboard.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/inclinated-pinboard.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/instapaper-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/instapaper-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/kik-messenger-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/kik-messenger-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/krop-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/krop-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/lastfm-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/lastfm-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/linked-in-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/linked-in-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/linked-in-square-button.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/linked-in-square-button.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/male-profile-picture.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/male-profile-picture.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/meetup-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/meetup-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/metacafe-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/metacafe-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/microsoft-windows-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/microsoft-windows-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/ming-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/ming-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/mister-wong-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/mister-wong-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/msn-social-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/msn-social-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/myspace-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/myspace-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/news-vine-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/news-vine-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/official-fm-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/official-fm-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/openid-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/openid-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/orkut-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/orkut-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/pandora-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/pandora-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/paypal-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/paypal-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/picasa-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/picasa-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/ping-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/ping-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/pingchat-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/pingchat-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/pinterest-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/pinterest-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/playstation-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/playstation-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/plixi-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/plixi-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/plurk-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/plurk-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/podcast-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/podcast-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/qik-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/qik-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/quaver-circular-button.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/quaver-circular-button.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/quora-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/quora-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/rain-cloud.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/rain-cloud.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/rdio-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/rdio-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/reddit-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/reddit-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/retweet-symbol.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/retweet-symbol.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/round-robot.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/round-robot.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/scribd-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/scribd-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/shark-fin-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/shark-fin-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/simple-note-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/simple-note-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/slideshare-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/slideshare-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/smile-face.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/smile-face.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/smug-mug-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/smug-mug-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/soundcloud-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/soundcloud-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/speech-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/speech-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/speech-bubble-with-heart.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/speech-bubble-with-heart.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/spotify-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/spotify-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/square-space-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/square-space-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/squidoo-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/squidoo-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/steam-machine.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/steam-machine.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/stumbleupon-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/stumbleupon-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/technorati-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/technorati-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/tumblr-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/tumblr-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/twitter-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/twitter-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/viddler-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/viddler-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/vimeo-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/vimeo-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/virb-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/virb-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/whatsapp-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/whatsapp-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/wikipedia-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/wikipedia-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/wists-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/wists-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/wordpress-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/wordpress-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/xing-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/xing-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/yahoo-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/yahoo-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/yahoo-buzz-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/yahoo-buzz-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/yahoo-messenger-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/yahoo-messenger-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/yelp-logotype.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/yelp-logotype.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/zootool-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/zootool-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/eps/zynga-big-logo.eps" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/eps/zynga-big-logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/font/Flaticon.eot" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/font/Flaticon.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/font/Flaticon.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/font/Flaticon.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/font/Flaticon.ttf" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/font/Flaticon.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/font/Flaticon.woff" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/font/Flaticon.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/font/_flaticon.scss" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/font/_flaticon.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/font/flaticon.css" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/font/flaticon.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/font/flaticon.html" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/font/flaticon.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/license/license.html" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/license/license.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/aim-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/aim-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/amazon-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/amazon-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/aol-flatty-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/aol-flatty-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/app-store.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/app-store.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/apple-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/apple-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/arto-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/arto-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/astronaut-reading.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/astronaut-reading.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/aws-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/aws-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/baidu-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/baidu-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/basecamp-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/basecamp-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/bebo-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/bebo-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/behance-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/behance-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/big-google-g-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/big-google-g-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/big-placeholder.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/big-placeholder.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/big-share-symbol.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/big-share-symbol.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/big-skype-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/big-skype-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/big-youtube-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/big-youtube-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/bing-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/bing-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/blip-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/blip-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/blogger-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/blogger-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/bnter-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/bnter-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/creative-commons-circular-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/creative-commons-circular-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/daili-booth-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/daili-booth-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/delicious-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/delicious-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/design-bump-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/design-bump-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/design-float-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/design-float-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/design-moo-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/design-moo-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/devianart-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/devianart-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/digg-logotype.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/digg-logotype.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/diigo-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/diigo-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/dribble-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/dribble-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/dropbox-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/dropbox-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/drupal-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/drupal-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/ebay-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/ebay-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/ember-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/ember-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/etsy-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/etsy-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/evernote-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/evernote-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/facebook-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/facebook-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/facebook-square-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/facebook-square-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/facto-me-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/facto-me-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/feed-burner-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/feed-burner-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/flickr-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/flickr-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/folkd-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/folkd-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/formspring-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/formspring-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/forrst-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/forrst-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/foursquare-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/foursquare-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/friend-feed-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/friend-feed-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/gdgt-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/gdgt-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/github-big-logo-1.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/github-big-logo-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/github-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/github-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/google-buzz-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/google-buzz-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/google-talk.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/google-talk.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/gowalla-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/gowalla-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/graphic-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/graphic-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/hacker-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/hacker-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/hi5-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/hi5-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/hyves-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/hyves-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/icloud-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/icloud-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/inclinated-pinboard.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/inclinated-pinboard.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/instapaper-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/instapaper-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/kik-messenger-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/kik-messenger-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/krop-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/krop-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/lastfm-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/lastfm-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/linked-in-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/linked-in-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/linked-in-square-button.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/linked-in-square-button.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/male-profile-picture.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/male-profile-picture.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/meetup-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/meetup-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/metacafe-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/metacafe-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/microsoft-windows-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/microsoft-windows-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/ming-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/ming-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/mister-wong-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/mister-wong-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/msn-social-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/msn-social-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/myspace-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/myspace-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/news-vine-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/news-vine-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/official-fm-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/official-fm-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/openid-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/openid-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/orkut-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/orkut-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/pandora-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/pandora-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/paypal-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/paypal-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/picasa-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/picasa-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/ping-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/ping-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/pingchat-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/pingchat-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/pinterest-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/pinterest-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/playstation-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/playstation-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/plixi-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/plixi-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/plurk-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/plurk-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/podcast-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/podcast-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/qik-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/qik-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/quaver-circular-button.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/quaver-circular-button.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/quora-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/quora-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/rain-cloud.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/rain-cloud.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/rdio-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/rdio-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/reddit-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/reddit-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/retweet-symbol.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/retweet-symbol.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/round-robot.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/round-robot.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/scribd-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/scribd-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/shark-fin-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/shark-fin-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/simple-note-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/simple-note-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/slideshare-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/slideshare-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/smile-face.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/smile-face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/smug-mug-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/smug-mug-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/soundcloud-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/soundcloud-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/speech-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/speech-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/speech-bubble-with-heart.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/speech-bubble-with-heart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/spotify-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/spotify-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/square-space-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/square-space-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/squidoo-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/squidoo-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/steam-machine.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/steam-machine.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/stumbleupon-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/stumbleupon-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/technorati-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/technorati-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/tumblr-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/tumblr-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/twitter-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/twitter-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/viddler-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/viddler-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/vimeo-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/vimeo-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/virb-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/virb-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/whatsapp-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/whatsapp-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/wikipedia-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/wikipedia-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/wists-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/wists-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/wordpress-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/wordpress-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/xing-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/xing-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/yahoo-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/yahoo-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/yahoo-buzz-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/yahoo-buzz-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/yahoo-messenger-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/yahoo-messenger-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/yelp-logotype.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/yelp-logotype.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/zootool-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/zootool-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/png/zynga-big-logo.png" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/png/zynga-big-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/aim-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/aim-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/amazon-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/amazon-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/aol-flatty-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/aol-flatty-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/app-store.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/app-store.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/apple-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/apple-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/arto-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/arto-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/astronaut-reading.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/astronaut-reading.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/aws-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/aws-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/baidu-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/baidu-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/basecamp-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/basecamp-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/bebo-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/bebo-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/behance-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/behance-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/big-google-g-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/big-google-g-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/big-placeholder.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/big-placeholder.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/big-share-symbol.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/big-share-symbol.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/big-skype-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/big-skype-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/big-youtube-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/big-youtube-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/bing-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/bing-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/blip-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/blip-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/blogger-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/blogger-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/bnter-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/bnter-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/creative-commons-circular-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/creative-commons-circular-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/daili-booth-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/daili-booth-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/delicious-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/delicious-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/design-bump-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/design-bump-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/design-float-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/design-float-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/design-moo-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/design-moo-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/devianart-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/devianart-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/digg-logotype.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/digg-logotype.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/diigo-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/diigo-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/dribble-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/dribble-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/dropbox-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/dropbox-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/drupal-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/drupal-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/ebay-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/ebay-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/ember-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/ember-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/etsy-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/etsy-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/evernote-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/evernote-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/facebook-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/facebook-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/facebook-square-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/facebook-square-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/facto-me-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/facto-me-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/feed-burner-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/feed-burner-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/flickr-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/flickr-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/folkd-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/folkd-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/formspring-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/formspring-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/forrst-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/forrst-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/foursquare-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/foursquare-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/friend-feed-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/friend-feed-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/gdgt-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/gdgt-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/github-big-logo-1.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/github-big-logo-1.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/github-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/github-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/google-buzz-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/google-buzz-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/google-talk.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/google-talk.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/gowalla-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/gowalla-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/graphic-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/graphic-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/hacker-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/hacker-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/hi5-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/hi5-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/hyves-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/hyves-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/icloud-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/icloud-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/inclinated-pinboard.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/inclinated-pinboard.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/instapaper-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/instapaper-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/kik-messenger-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/kik-messenger-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/krop-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/krop-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/lastfm-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/lastfm-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/linked-in-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/linked-in-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/linked-in-square-button.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/linked-in-square-button.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/male-profile-picture.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/male-profile-picture.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/meetup-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/meetup-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/metacafe-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/metacafe-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/microsoft-windows-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/microsoft-windows-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/ming-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/ming-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/mister-wong-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/mister-wong-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/msn-social-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/msn-social-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/myspace-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/myspace-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/news-vine-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/news-vine-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/official-fm-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/official-fm-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/openid-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/openid-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/orkut-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/orkut-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/pandora-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/pandora-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/paypal-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/paypal-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/picasa-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/picasa-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/ping-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/ping-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/pingchat-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/pingchat-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/pinterest-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/pinterest-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/playstation-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/playstation-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/plixi-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/plixi-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/plurk-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/plurk-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/podcast-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/podcast-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/qik-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/qik-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/quaver-circular-button.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/quaver-circular-button.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/quora-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/quora-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/rain-cloud.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/rain-cloud.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/rdio-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/rdio-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/reddit-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/reddit-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/retweet-symbol.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/retweet-symbol.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/round-robot.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/round-robot.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/scribd-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/scribd-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/shark-fin-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/shark-fin-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/simple-note-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/simple-note-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/slideshare-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/slideshare-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/smile-face.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/smile-face.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/smug-mug-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/smug-mug-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/soundcloud-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/soundcloud-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/speech-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/speech-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/speech-bubble-with-heart.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/speech-bubble-with-heart.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/spotify-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/spotify-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/square-space-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/square-space-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/squidoo-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/squidoo-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/steam-machine.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/steam-machine.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/stumbleupon-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/stumbleupon-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/technorati-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/technorati-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/tumblr-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/tumblr-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/twitter-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/twitter-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/viddler-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/viddler-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/vimeo-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/vimeo-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/virb-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/virb-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/whatsapp-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/whatsapp-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/wikipedia-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/wikipedia-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/wists-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/wists-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/wordpress-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/wordpress-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/xing-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/xing-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/yahoo-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/yahoo-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/yahoo-buzz-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/yahoo-buzz-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/yahoo-messenger-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/yahoo-messenger-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/yelp-logotype.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/yelp-logotype.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/zootool-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/zootool-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/psd/zynga-big-logo.psd" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/psd/zynga-big-logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/aim-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/aim-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/amazon-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/amazon-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/aol-flatty-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/aol-flatty-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/app-store.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/app-store.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/apple-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/apple-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/arto-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/arto-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/astronaut-reading.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/astronaut-reading.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/aws-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/aws-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/baidu-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/baidu-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/basecamp-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/basecamp-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/bebo-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/bebo-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/behance-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/behance-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/big-google-g-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/big-google-g-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/big-placeholder.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/big-placeholder.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/big-share-symbol.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/big-share-symbol.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/big-skype-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/big-skype-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/big-youtube-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/big-youtube-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/bing-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/bing-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/blip-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/blip-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/blogger-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/blogger-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/bnter-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/bnter-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/creative-commons-circular-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/creative-commons-circular-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/daili-booth-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/daili-booth-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/delicious-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/delicious-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/design-bump-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/design-bump-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/design-float-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/design-float-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/design-moo-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/design-moo-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/devianart-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/devianart-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/digg-logotype.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/digg-logotype.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/diigo-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/diigo-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/dribble-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/dribble-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/dropbox-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/dropbox-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/drupal-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/drupal-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/ebay-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/ebay-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/ember-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/ember-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/etsy-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/etsy-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/evernote-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/evernote-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/facebook-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/facebook-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/facebook-square-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/facebook-square-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/facto-me-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/facto-me-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/feed-burner-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/feed-burner-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/flickr-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/flickr-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/folkd-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/folkd-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/formspring-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/formspring-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/forrst-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/forrst-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/foursquare-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/foursquare-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/friend-feed-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/friend-feed-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/gdgt-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/gdgt-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/github-big-logo-1.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/github-big-logo-1.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/github-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/github-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/google-buzz-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/google-buzz-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/google-talk.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/google-talk.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/gowalla-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/gowalla-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/graphic-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/graphic-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/hacker-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/hacker-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/hi5-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/hi5-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/hyves-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/hyves-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/icloud-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/icloud-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/inclinated-pinboard.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/inclinated-pinboard.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/instapaper-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/instapaper-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/kik-messenger-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/kik-messenger-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/krop-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/krop-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/lastfm-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/lastfm-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/linked-in-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/linked-in-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/linked-in-square-button.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/linked-in-square-button.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/male-profile-picture.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/male-profile-picture.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/meetup-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/meetup-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/metacafe-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/metacafe-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/microsoft-windows-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/microsoft-windows-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/ming-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/ming-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/mister-wong-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/mister-wong-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/msn-social-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/msn-social-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/myspace-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/myspace-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/news-vine-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/news-vine-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/official-fm-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/official-fm-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/openid-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/openid-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/orkut-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/orkut-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/pandora-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/pandora-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/paypal-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/paypal-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/picasa-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/picasa-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/ping-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/ping-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/pingchat-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/pingchat-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/pinterest-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/pinterest-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/playstation-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/playstation-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/plixi-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/plixi-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/plurk-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/plurk-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/podcast-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/podcast-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/qik-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/qik-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/quaver-circular-button.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/quaver-circular-button.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/quora-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/quora-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/rain-cloud.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/rain-cloud.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/rdio-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/rdio-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/reddit-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/reddit-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/retweet-symbol.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/retweet-symbol.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/round-robot.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/round-robot.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/scribd-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/scribd-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/shark-fin-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/shark-fin-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/simple-note-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/simple-note-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/slideshare-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/slideshare-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/smile-face.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/smile-face.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/smug-mug-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/smug-mug-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/soundcloud-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/soundcloud-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/speech-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/speech-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/speech-bubble-with-heart.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/speech-bubble-with-heart.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/spotify-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/spotify-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/square-space-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/square-space-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/squidoo-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/squidoo-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/steam-machine.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/steam-machine.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/stumbleupon-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/stumbleupon-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/technorati-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/technorati-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/tumblr-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/tumblr-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/twitter-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/twitter-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/viddler-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/viddler-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/vimeo-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/vimeo-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/virb-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/virb-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/whatsapp-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/whatsapp-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/wikipedia-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/wikipedia-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/wists-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/wists-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/wordpress-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/wordpress-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/xing-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/xing-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/yahoo-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/yahoo-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/yahoo-buzz-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/yahoo-buzz-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/yahoo-messenger-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/yahoo-messenger-big-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/yelp-logotype.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/yelp-logotype.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/zootool-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/zootool-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/111536-flatty-social-media/svg/zynga-big-logo.svg" afterPath="$PROJECT_DIR$/app/assets/images/flatty-social-media/svg/zynga-big-logo.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/facebook.png" afterPath="$PROJECT_DIR$/app/assets/images/facebook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/github.png" afterPath="$PROJECT_DIR$/app/assets/images/github.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/linkedin.png" afterPath="$PROJECT_DIR$/app/assets/images/linkedin.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/twitter.png" afterPath="$PROJECT_DIR$/app/assets/images/twitter.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/devcamp-portfolio.iml" afterPath="$PROJECT_DIR$/.idea/devcamp-portfolio.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/contacts.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/contacts.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/contacts/show.html.erb" afterPath="$PROJECT_DIR$/app/views/contacts/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/contact.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/contact.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/shared/_contact_click.html.erb" afterPath="$PROJECT_DIR$/app/views/shared/_contact_click.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/shared/_contact_footer.html.erb" afterPath="$PROJECT_DIR$/app/views/shared/_contact_footer.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/shared/_contact_nav.html.erb" afterPath="$PROJECT_DIR$/app/views/shared/_contact_nav.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/shared/_contact_social_links.html.erb" afterPath="$PROJECT_DIR$/app/views/shared/_contact_social_links.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/main.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/about.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/about.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -576,82 +39,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="contact.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/contact.html.erb">
+      <file leaf-file-name="about.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/about.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5333">
-              <caret line="2461" column="25" lean-forward="false" selection-start-line="2461" selection-start-column="25" selection-end-line="2461" selection-end-column="25" />
+            <state relative-caret-position="17">
+              <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
               <folding>
-                <element signature="e#1489#1798#0" expanded="false" />
-                <element signature="e#1801#2108#0" expanded="false" />
-                <element signature="e#2111#2416#0" expanded="false" />
-                <element signature="e#2419#2735#0" expanded="false" />
-                <element signature="e#2738#3045#0" expanded="false" />
-                <element signature="e#6416#9753#0" expanded="false" />
-                <element signature="e#9756#13187#0" expanded="false" />
-                <element signature="e#13190#16628#0" expanded="false" />
-                <element signature="e#16631#20163#0" expanded="false" />
-                <element signature="e#20166#23604#0" expanded="false" />
+                <element signature="e#1683#1940#0" expanded="false" />
+                <element signature="e#1980#2235#0" expanded="false" />
+                <element signature="e#2274#2528#0" expanded="false" />
+                <element signature="e#2567#2832#0" expanded="false" />
+                <element signature="e#2871#3127#0" expanded="false" />
+                <element signature="e#7278#10530#0" expanded="false" />
+                <element signature="e#10570#13916#0" expanded="false" />
+                <element signature="e#13955#17309#0" expanded="false" />
+                <element signature="e#17348#20796#0" expanded="false" />
+                <element signature="e#20835#24189#0" expanded="false" />
+                <marker date="1493087855000" expanded="true" signature="28734:29134" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assets.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
+      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+            <state relative-caret-position="690">
+              <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contacts.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/contacts.scss">
+      <file leaf-file-name="application.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="2895">
+              <caret line="193" column="0" lean-forward="true" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/contacts/show.html.erb">
+      <file leaf-file-name="about.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/pages/about.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_contact_footer.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/shared/_contact_footer.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_contact_nav.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/shared/_contact_nav.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="390">
+              <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -674,6 +108,11 @@
       <find>nav</find>
       <find>@media</find>
       <find>main</find>
+      <find>background</find>
+      <find>905</find>
+      <find>@media screen and</find>
+      <find>footer</find>
+      <find>3em</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -682,7 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/controllers/blogs_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/blogs/show.html.erb" />
         <option value="$PROJECT_DIR$/app/views/blogs/_blog.html.erb" />
         <option value="$PROJECT_DIR$/app/views/blogs/_admin_actions.html.erb" />
@@ -702,9 +140,7 @@
         <option value="$PROJECT_DIR$/app/models/portfolio.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/portfolio.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/blog.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/pages/home.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/pages/about.html.erb" />
         <option value="$PROJECT_DIR$/app/views/pages/contact.html.erb" />
         <option value="$PROJECT_DIR$/config/initializers/devise.rb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
@@ -726,13 +162,16 @@
         <option value="$PROJECT_DIR$/app/views/shared/_contact_click.html.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/shared/_contact_nav.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/contact.html.erb" />
-        <option value="$PROJECT_DIR$/config/initializers/assets.rb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/contacts.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/name.scss" />
         <option value="$PROJECT_DIR$/app/views/shared/_contact_footer.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css" />
         <option value="$PROJECT_DIR$/app/views/contacts/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/contacts.scss" />
+        <option value="$PROJECT_DIR$/config/initializers/assets.rb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css" />
+        <option value="$PROJECT_DIR$/app/views/layouts/contact.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/about.scss" />
+        <option value="$PROJECT_DIR$/app/views/pages/about.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
@@ -744,7 +183,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="876" />
-    <option name="y" value="383" />
+    <option name="y" value="23" />
     <option name="width" value="1684" />
     <option name="height" value="976" />
   </component>
@@ -1269,12 +708,12 @@
       <workItem from="1491762091696" duration="13854000" />
       <workItem from="1492130029712" duration="230000" />
       <workItem from="1492130313416" duration="24265000" />
-      <workItem from="1492535588645" duration="15898000" />
+      <workItem from="1492535588645" duration="19373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157673000" />
+    <option name="totallyTimeSpent" value="161148000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1286,7 +725,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="876" y="383" width="1684" height="976" extended-state="0" />
+    <frame x="876" y="23" width="1684" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17755345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1366,27 +805,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/blog.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/comments.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/blogs.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -1467,14 +885,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/images/banner.jpg" />
     <entry file="file://$PROJECT_DIR$/app/assets/images/pic01.jpg" />
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/topic.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1685,29 +1095,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/shared/_contact_footer.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/name.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
-            <element signature="e#1798#14936#1" expanded="true" />
-            <element signature="e#14956#32973#1" expanded="true" />
+            <element signature="e#1798#14936#1" expanded="false" />
+            <element signature="e#14956#32973#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1715,15 +1109,47 @@
     <entry file="file://$PROJECT_DIR$/app/views/shared/_contact_nav.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/contacts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/contacts/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/shared/_contact_footer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5333">
-          <caret line="2461" column="25" lean-forward="false" selection-start-line="2461" selection-start-column="25" selection-end-line="2461" selection-end-column="25" />
+        <state relative-caret-position="-23714">
+          <caret line="1551" column="45" lean-forward="true" selection-start-line="1551" selection-start-column="45" selection-end-line="1551" selection-end-column="45" />
           <folding>
             <element signature="e#1489#1798#0" expanded="false" />
             <element signature="e#1801#2108#0" expanded="false" />
@@ -1741,24 +1167,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/contact.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="375">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/contacts.scss">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/about.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="17">
+          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding>
+            <element signature="e#1683#1940#0" expanded="false" />
+            <element signature="e#1980#2235#0" expanded="false" />
+            <element signature="e#2274#2528#0" expanded="false" />
+            <element signature="e#2567#2832#0" expanded="false" />
+            <element signature="e#2871#3127#0" expanded="false" />
+            <element signature="e#7278#10530#0" expanded="false" />
+            <element signature="e#10570#13916#0" expanded="false" />
+            <element signature="e#13955#17309#0" expanded="false" />
+            <element signature="e#17348#20796#0" expanded="false" />
+            <element signature="e#20835#24189#0" expanded="false" />
+            <marker date="1493087855000" expanded="true" signature="28734:29134" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2895">
+          <caret line="193" column="0" lean-forward="true" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/contacts/show.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/pages/about.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        <state relative-caret-position="390">
+          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
           <folding />
         </state>
       </provider>
