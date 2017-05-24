@@ -25,6 +25,6 @@
 //= require cocoon
 //= require gritter
 //= require cable
+//= require bootstrap-sprockets
 //= require turbolinks
 //= require_tree .
-//= require bootstrap-sprockets
