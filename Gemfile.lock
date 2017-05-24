@@ -94,6 +94,8 @@ GEM
     faraday (0.11.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.18)
+    font-awesome-rails (4.7.0.2)
+      railties (>= 3.2, < 5.2)
     friendly_id (5.1.0)
       activerecord (>= 4.0.0)
     globalid (0.4.0)
@@ -270,6 +272,7 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   devise (~> 4.2)
   dotenv-rails (~> 2.1, >= 2.1.2)
+  font-awesome-rails
   friendly_id (~> 5.1.0)
   gritter (~> 1.2)
   jbuilder (~> 2.5)
