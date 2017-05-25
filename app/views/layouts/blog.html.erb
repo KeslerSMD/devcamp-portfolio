@@ -11,6 +11,7 @@
 
     <%= favicon_link_tag 'favicons/favicon.ico' %>
 
+    <%= stylesheet_link_tag 'name-app', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= stylesheet_link_tag    'blogs', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
@@ -28,10 +29,9 @@
 
         <%= render 'shared/blog_sidebar' %>
       </div>
-
-      <%= render 'shared/blog_footer' %>
-
-      <%= alerts %>
     </div>
+
+    <%= render 'shared/blog_footer' %>
+    <%= alerts %>
   </body>
 </html>

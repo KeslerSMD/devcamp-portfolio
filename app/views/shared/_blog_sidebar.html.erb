@@ -1,7 +1,7 @@
-<div class="col-sm-3 offset-sm-1 blog-sidebar">
+<div class="col-sm-4 blog-sidebar">
   <div class="sidebar-module sidebar-module-inset">
     <h4>About</h4>
-    <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+    <p>These blogs will have a variety of content.</br>From simple musings of my mind to ways of helping fellow developers.</br>Also feel free to leave any suggestions in the comment section of my site.</p>
   </div>
 
   <%= source_helper("alert alert-info blog-sidebar-source") %>
@@ -13,13 +13,16 @@
     <% end %>
   </div>
 
-  <div class="sidebar-module">
-    <h4>Elsewhere</h4>
-    <ol class="list-unstyled social-links">
-      <li><a href="#"><%= fa_icon "github" %></a></li>
-      <li><a href="#"><%= fa_icon "instagram" %></a></li>
-      <li><a href="#"><%= fa_icon "facebook" %></a></li>
-      <li><a href="#"><%= fa_icon "twitter" %></a></li>
-    </ol>
+  <div class="sidebar-module sidebar-module-inset icons connect-h4">
+    <h4>Connect More</h4>
+    <div class="icon-position">
+      <a class="icon-size" href="https://www.linkedin.com/in/devanrwalker/"><%= image_tag('linkedin.png') %></a>
+      <a class="icon-size" href="https://plus.google.com/+DevanWalker2"><%= image_tag('googleplus.png') %></a>
+      <a class="icon-size" href="https://github.com/devanrwalker"><%= image_tag('github.png') %></a>
+      <a class="icon-size" href="https://twitter.com/devanrwalker"><%= image_tag('twitter.png') %></a>
+      <a class="icon-size" href="https://www.instagram.com/devanrwalker/"><%= image_tag('instagram.png') %></a>
+      <a class="icon-size" href="https://www.twitch.tv/onefruitpunchman"><%= image_tag('twitch.png') %></a>
+      <a class="icon-size" href="https://www.facebook.com/devan.r.walker"><%= image_tag('facebook.png') %></a>
+    </div>
   </div>
 </div>

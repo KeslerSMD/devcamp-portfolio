@@ -1,9 +1,9 @@
 $jj: #fff;
 $black: #010101;
 
-* {
-  font-family: 'JJ', sans-serif;
-}
+// * {
+//   font-family: 'JJ', sans-serif;
+// }
 
 .panel {
   margin-left: 220px;
@@ -12,6 +12,7 @@ $black: #010101;
 }
 
 .jj {
+  font-family: 'JJ', sans-serif;
   position: absolute;
   top: 50%;
   left: 50%;

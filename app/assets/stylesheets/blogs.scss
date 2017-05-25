@@ -27,7 +27,6 @@ h6, .h6 {
   color: #333;
 }
 
-
 /*
  * Override Bootstrap's default container.
  */
@@ -35,7 +34,6 @@ h6, .h6 {
 .container {
   max-width: 60rem;
 }
-
 
 /*
  * Masthead for nav
@@ -49,8 +47,9 @@ h6, .h6 {
 }
 
 /* Nav links */
+
 .nav-link {
-  position: relative;
+  // position: relative;
   padding: 1rem;
   font-weight: 500;
   color: #cdddeb;
@@ -71,7 +70,7 @@ h6, .h6 {
   left: 50%;
   width: 0;
   height: 0;
-  margin-left: -.3rem;
+  margin-left: 1.3rem;
   vertical-align: middle;
   content: "";
   border-right: .3rem solid transparent;
@@ -159,7 +158,7 @@ h6, .h6 {
 
 .blog-footer {
   margin-top: 20px;
-  padding: 2.5rem 0;
+  padding: .75rem 0;
   color: #999;
   text-align: center;
   background-color: #f9f9f9;
@@ -201,4 +200,80 @@ h6, .h6 {
 
 .blog-sidebar-source {
   margin-top: 20px;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.panel {
+    margin-left: 60px;
+    position: absolute;
+    margin-top: 0px;
+}
+
+.btn-primary a {
+  color: white;
+}
+
+.offset-sm-1 {
+  margin-left: 20px;
+}
+
+.icon-size img {
+    width: 80px;
+    height: 80px;
+    text-align: center;
+}
+
+.icons {
+  margin-top: 20px;
+  padding: 0px;
+}
+.icons li {
+  margin: auto;
+  display: inline;
+}
+
+.icon-size {
+  margin: auto;
+}
+
+.icon-size:hover img {
+    margin: -2.5px;
+    width: 85px;
+    height: 85px;
+}
+ul {
+  list-style-type: none;
+  position: absolute;
+  right: 0;
+}
+
+@media (min-width: 991px) {
+  .navbar {
+    padding: 2em;
+  }
+  .navbar-nav {
+    margin-top: -33px;
+  }
+}
+
+@media (max-width: 991px) {
+  .navbar {
+    padding: 2em;
+  }
+  .navbar-toggler-right {
+    margin-top: -23px;
+  }
+}
+
+.connect-h4 h4 {
+  padding: 18px 18px 0px 18px;
+}
+
+.icon-position {
+  margin-top: 5px;
+  padding: 18px 5px 18px 5px;
+  text-align: center;
 }
